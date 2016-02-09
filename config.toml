@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://replace-this-with-your-domain.com/"
+baseurl = "http://mhiatt.github.io/hugo-blog"
 languageCode = "en-us"
 title = "Myles Hiatt"
 theme = "hugo-cactus-theme"

@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://mhiatt.github.io/hugo-blog"
+baseurl = "http://mhiatt.github.io/hugo-blog/"
 languageCode = "en-us"
 title = "Myles Hiatt"
 theme = "hugo-cactus-theme"

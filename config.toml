@@ -46,7 +46,8 @@ disqusShortname = "mhiatt"
 
 # Add additional social link entries underneath
 [social]
-    twitter  = "https://www.twitter.com/"
-    facebook = "https://www.facebook.com/"
-    github   = "https://www.github.com/"
-    dribble  = "https://www.dribbble.com/"
+    # twitter  = "https://www.twitter.com/"
+		linkedin = "https://www.linkedin.com/in/myles-hiatt-5749916b?trk=nav_responsive_tab_profile"
+    facebook = "https://www.facebook.com/myles.hiatt"
+    githubalt = "https://www.github.com/mhiatt"
+    # dribble  = "https://www.dribbble.com/"

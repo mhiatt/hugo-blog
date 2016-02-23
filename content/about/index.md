@@ -25,4 +25,4 @@ I am an full stack developer with a particular focus on NodeJS and javascript. I
 
 + <a href="https://www.zeusauction.com" target="_blank" title="Zeus Auction System">Zeus Auction System</a>
 + <a href="http://www.sriservices.com" target="_blank" title="SRI Services">SRI Services</a>
-+ <a href="https://www.mhiatt.github.io/backbone-tutorial-blogs" target="_blank" title="Simple Backbone Tutorial">Simple Backbone Tutorial</a>
++ <a href="/backbone-tutorial-blogs" target="_blank" title="Simple Backbone Tutorial">Simple Backbone Tutorial</a>

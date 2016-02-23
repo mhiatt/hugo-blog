@@ -16,7 +16,7 @@ disqusShortname = "mhiatt"
 [params]
 	name = "Myles Hiatt"
 	description = "Describe your website"
-	bio = "Programmer - Something - Undecided"
+	bio = "Programmer - Life-long Student - Undecided"
 	# Enter optionally your twitter account
 	twitter = "Your Twitter account"
 	enableRSS = true
@@ -34,7 +34,7 @@ disqusShortname = "mhiatt"
 	readMore = ""
 	copyright = ""
 	# Sharing options and author information in posts
-	aboutAuthor = "I'm an enthusiastic gopher."
+	aboutAuthor = "I'm here to learn."
 	tweet = ""
 	share = ""
 	# 404 page

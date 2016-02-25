@@ -27,3 +27,4 @@ I am an full stack developer with a particular focus on NodeJS and JavaScript. I
 + <a href="http://www.sriservices.com" target="_blank" title="SRI Services">SRI Services</a>
 + <a href="https://github.com/mhiatt/react-example" target="_blank" title="React Example">React Example</a>&nbsp;(flux coming soon...)
 + <a href="/backbone-tutorial-blogs" target="_blank" title="Simple Backbone Tutorial">Simple Backbone Tutorial</a>
++ <a href="/modular-javascript" target="_blank" title="Modular JavaScript Example">Modular JavaScript Example</a>
